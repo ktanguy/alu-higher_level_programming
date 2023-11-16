@@ -66,4 +66,3 @@ class Square:
                 print()
                 counter = startsize
                 self.__size -= 1
-
