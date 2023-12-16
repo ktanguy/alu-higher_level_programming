@@ -1,6 +1,10 @@
 #!/usr/bin/python3
-class Square:
-        pass
-    $ ./0-main.py
-    <class '0-square.Square'>
-    {}
+"""
+THIS CODE CONTAINS NO MODULESL
+"""
+
+
+class Square():
+    """
+    CLASS IS A SQUARE CLASS AND IS EMPTY
+    """
